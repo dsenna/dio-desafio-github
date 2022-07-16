@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #e5e8e8;
+    color: #4e545c;
+    font-family: 'Quicksand', sans-serif;
+    max-width: 100%;
+}
+
+main {
+    text-align: center;
+    padding: 20% 0;
+}
+
+main #mode-selector {
+    background-color: #4e545c;
+    font-size: 14px;
+    color: #e5e8e8;
+    text-align: center;
+    margin-top: 10px;
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+}
+
+
+footer {
+    background-color: #4e545c;
+    color: #e5e8e8;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.dark-mode {
+    background-color: black;
+}
